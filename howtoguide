@@ -1,0 +1,7 @@
+1. emacs filename
+2. git add filename
+3. git commit -m"comments"
+4. git push
+5. git pull
+
+Pull before coding every time!!
